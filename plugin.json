@@ -1,10 +1,10 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
-  "flags": ["debug", "_root"],
+  "name": "EmuDecky",
+  "author": "Witherking35",
+  "flags": ["debug"],
   "publish": {
-    "tags": ["template", "root"],
-    "description": "Decky example plugin.",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "tags": ["EmuDeck"],
+    "description": "The official EmuDeck plugin! bundles some common plugins for emulation",
+    "image": "https://opengraph.githubassets.com/1/EmuDeck/EmuDecky"
   }
 }

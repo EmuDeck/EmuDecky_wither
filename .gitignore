@@ -20,6 +20,8 @@ coverage
 .env
 
 # Dependency directory
+.pnpm-store
+
 node_modules
 bower_components
 

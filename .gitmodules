@@ -1,0 +1,10 @@
+
+[submodule "backend/modules/Emuchievements"]
+	path = backend/modules/Emuchievements
+	url = https://github.com/EmuDeck/Emuchievements
+[submodule "backend/modules/MetaDeck"]
+	path = backend/modules/MetaDeck
+	url = https://github.com/EmuDeck/MetaDeck
+[submodule "backend/modules/SteamlessTimes"]
+	path = backend/modules/SteamlessTimes
+	url = https://github.com/EmuDeck/SteamlessTimes
